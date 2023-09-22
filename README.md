@@ -21,4 +21,4 @@ You have to create a PR in this to get your profile added🫠
 | Name | Position | Profile |
 | -------- | ------- | ------- |
 | Pushkar Yadav | GDSC Lead | [Twitter](https://twitter.com/pushkaryadavin) |
-| Nitin | GDSC Member | [Github](https://github.com/nitinco) |
+| Nitin | GDSC MEMBER | [Github](https://github.com/nitinco) |
