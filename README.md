@@ -20,4 +20,4 @@ You have to create a PR in this to get your profile added🫠
 
 | Name | Position | Profile |
 | -------- | ------- | ------- |
-| Pushkar Yadav | GDSC Lead | [Twitter](https://twitter.com/pushkaryadavin) |
+| Kushagra Sharma | GDSC Member| [LinkedIn](www.linkedin.com/in/kushagra-sharma-414b55280) |
