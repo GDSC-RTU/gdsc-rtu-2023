@@ -21,3 +21,4 @@ You have to create a PR in this to get your profile added🫠
 | Name | Position | Profile |
 | -------- | ------- | ------- |
 | Pushkar Yadav | GDSC Lead | [Twitter](https://twitter.com/pushkaryadavin) |
+| Danish Mobiya | GDSC MEMBER | [Instagram](https://www.instagram.com/unforseen_danish/) |
