@@ -20,4 +20,4 @@ You have to create a PR in this to get your profile added🫠
 
 | Name | Position | Profile |
 | -------- | ------- | ------- |
-| Gagan jain | GDSC Member | [instagram](https://instagram.com/gagan004) |
+| Gagan jain | GDSC Member | [instagram](https://instagram.com/gaganjain004) |
