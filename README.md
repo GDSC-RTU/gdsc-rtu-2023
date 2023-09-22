@@ -20,4 +20,4 @@ You have to create a PR in this to get your profile added🫠
 
 | Name | Position | Profile |
 | -------- | ------- | ------- |
-| Pushkar Yadav | GDSC Lead | [Twitter](https://twitter.com/pushkaryadavin) |
+| Pushkar Yadav | GDSC Lead | [Insta](https://instagram.com/pushkarydv_) |
