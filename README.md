@@ -21,3 +21,4 @@ You have to create a PR in this to get your profile added🫠
 | Name | Position | Profile |
 | -------- | ------- | ------- |
 | Pushkar Yadav | GDSC Lead | [Twitter](https://twitter.com/pushkaryadavin) |
+| Kartik Maheshwari| GDSC Member | [Insta](https://instagram.com/kartik_11605?igshid=OGQ5ZDc2ODk2ZA==) |
