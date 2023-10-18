@@ -1,4 +1,84 @@
-![ca7dd44c-17bf-4fae-a0fc-1cfea5f46e7c](https://github.com/pushkarydv/gdsc-rtu-2023/assets/96358784/4f9379c9-24bb-4b96-8c69-8695cf0bc1fc)
+SS
+
+|||sssSiya Siya ChopS_------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">GDSC ❤️ Open Source</h1>
 <p> 
   Hello from Google Developer Students club Rajasthan Technical University, <br/>
@@ -20,4 +100,5 @@ You have to create a PR in this to get your profile added🫠
 
 | Name | Position | Profile |
 | -------- | ------- | ------- |
+| Siya Chopra|GDSC member|[github](https://github.com/siya100.git) |
 | Pushkar Yadav | GDSC Lead | [Twitter](https://twitter.com/pushkaryadavin) |
